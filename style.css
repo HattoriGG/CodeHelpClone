@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #131516;
+}
+body {
+  font-family: "Rubik", sans-serif;
+  /* font-size: 16px; */
+  color: aliceblue;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+ul {
+  list-style: none;
+}
+.maincontainer {
+  margin-inline: 204px;
+}
+.nav li {
+  margin-inline: 20px;
+}
+.mainnav ul {
+  display: flex;
+  flex-direction: row;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+.mainnav img {
+  margin-left: 120px;
+}
+.mainnav #login {
+  margin-right: 120px;
+}
+.mainnav {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  justify-content: space-around;
+  font-size: 16px;
+  border-bottom: 1px solid white;
+  box-shadow: white 0px -1px -5px, white 0px -1px -8px;
+}
+
+.login {
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+#dashboard {
+  border: 1.5px solid #29347a;
+  border-radius: 2px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-inline: 8px;
+  padding: 13px;
+  padding-inline: 26px;
+  border-radius: 7px;
+}
+#login {
+  background-color: #29347a;
+  border: 1.5px solid;
+  border-radius: 2px;
+  padding: 13px;
+  padding-inline: 39px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border-color: #29347a;
+  border-radius: 7px;
+}
+.section1 #images {
+  display: flex;
+}
+.leftsection p {
+  font-weight: 300;
+  font-size: 36px;
+  margin-left: 8px;
+}
+.leftsection {
+  margin-block: 150px;
+}
+.heading {
+  display: flex;
+  font-size: 24px;
+  padding-bottom: 22px;
+  justify-content: space-evenly;
+}
+.leftsection .buttons {
+  margin-top: 45px;
+  margin-bottom: 62px;
+}
+.rightsection {
+  margin-block: 58px;
+}
+#course {
+  background-color: #29347a;
+  border: 1.5px solid;
+  border-radius: 2px;
+  padding-block: 17px;
+  padding-inline: 26px;
+  border-radius: 5px;
+  border-color: #29347a;
+}
+#video {
+  border: 1.5px solid #29347a;
+  border-radius: 2px;
+  margin-inline: 8px;
+  padding-block: 17px;
+  padding-inline: 26px;
+  border-radius: 5px;
+}
+#images img {
+  border-radius: 50%;
+  height: 55px;
+}
+.sec12heading {
+  color: #6e96cf;
+}
+.name {
+  margin-left: -10px;
+}
+.section1 {
+  display: flex;
+}
+#numbersss p {
+  color: #dbd8d3;
+  font-size: medium;
+  font-weight: 800;
+}
+#studentss p {
+  color: #989082;
+  font-size: medium;
+}
